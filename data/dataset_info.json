@@ -1,4 +1,16 @@
-{
+{"rd_test":{
+                "file_name": "road_test.json"
+        },
+	"poi_to_rd":{
+		"file_name": "poi_to_road.json"
+	},
+	"POI_bj_test":{
+		"file_name": "POI_bj_test_file.json"
+	},
+  "POI_bj": {
+    "file_name": "POI_bj_train_file.json",
+    "file_sha1": "0510ee0e9720fb48c9dcd913da07809b07922bd8"
+  },
   "alpaca_en": {
     "hf_hub_url": "tatsu-lab/alpaca"
   },
